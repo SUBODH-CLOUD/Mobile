@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;900&display=swap');
+
+.container{
+    border: 3px solid rgba(7, 56, 180);
+    width: 343px;
+    height: 652px;
+    border-radius: 3rem;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(15, 180, 240);
+    margin: 50px auto;
+    
+}
+
+.sidebtn,.sidebtn1{
+    border: 2px solid rgba(7, 56, 180);
+    margin-left: 335.5px;
+    height: 30px;
+    width: 0.01px;
+    border-radius: 20px;
+    margin-top: 150px;
+    
+}
+
+.sidebtn1{
+    margin-top:  100px;;
+}
+
+.secondborderblack{
+    border: 8px solid rgba(15, 0, 0, 0.988);
+    width: 327px;
+    height: 637px;
+    border-radius: 2.5rem;
+}
+
+.display{
+    border-radius: 2rem;
+    background-color:rgba(12, 12, 12, 0.944);
+    width: 328px;
+    height: 638px;
+}
+
+.camera{
+    width: 30px;
+    height: 30px;
+    margin: 1px auto;
+}
+
+
+   
+}
+body{
+    color: aliceblue;
+    text-align: center;
+    text-decoration:double;
+    justify-content: center;
+    
+}
+
+h3{
+    margin: 50px auto;
+    margin-top: 80px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: bolder;
+    font-size: ;
+    
+}
+
+.backborder{
+    border: 3px solid rgb(7, 56, 180);
+    width: 343px;
+    height: 652px;
+    border-radius: 3rem;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(15, 180, 240);
+    margin: 50px auto;
+}
+.camera2{
+    width: 50px;
+    height: 38px;
+    margin-top: 5px;
+}
+
+.cameramargin{
+width: 60px;
+height: 100px;
+border-radius: 2rem;
+background-color: black;
+text-align: center;
+border: 1px solid white;
+}
+
+.blackoutcamera{
+    border: 1px solid black;
+    border-radius: 2rem;
+    width: fit-content;
+}
+
+
+.backcamera{
+    text-align: left;
+    margin: 30px 0 0 15px;
+    
+}
+#camera3{
+    text-;
+}
+
+#h3{
+    color: black;
+}
+
+.html{
+
+    display: flex;
+}
+
+.container2{
+    margin-right: 250px;
+}
